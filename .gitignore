@@ -1,0 +1,17 @@
+# temporary files
+.vs/
+Ongkir Form/.vs/
+Ongkir Form/bin/
+Ongkir Form/obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
